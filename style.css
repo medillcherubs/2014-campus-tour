@@ -32,3 +32,10 @@ h3{
   color: white;
 
 }
+
+audio{
+  position: absolute;
+  right: 10px;
+  bottom:10px;
+
+}
