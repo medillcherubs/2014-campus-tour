@@ -17,4 +17,7 @@ jQuery(document).ready(function() {
         
     });
  
+    setInterval(function() {
+        jQuery('body').height(jQuery('.campustour').outerHeight());
+    }, 500)
 });
